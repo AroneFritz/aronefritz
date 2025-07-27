@@ -34,8 +34,8 @@ Welcome to my fully animated, interactive, 3D developer portfolio designed to sh
 ## 📦 Setup & Installation
 
 ```bash
-git clone https://github.com/AroneFritz/arone-fritz-portfolio.git
-cd arone-fritz-portfolio
+git clone https://github.com/AroneFritz/aronefritz.git
+cd aronefritz
 npm install
 npm run dev
 ```
