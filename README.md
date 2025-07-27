@@ -6,17 +6,6 @@ Welcome to my fully animated, interactive, 3D developer portfolio designed to sh
 
 > ⚡ Inspired by Awwwards-level sites — built with React (Vite), TailwindCSS, GSAP, React Three Fiber, and Drei.
 
-<br/>
-<div>
-  <img src=""/>
-  <div style="display: flex; justify-content: space-between; margin: 20px 0;">
-    <img src=""/>
-    <img src=""/>
-    <img src=""/>
-  </div>
-</div>
-<br/>
-
 
 ## 🚀 Tech Stack
 
